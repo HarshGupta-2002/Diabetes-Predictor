@@ -7,7 +7,8 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # **Screenshot**
 
-![](screenshot.jpg)
+![image](https://github.com/HarshGupta-2002/Diabetes-Predictor/assets/81915099/044fb4f0-b9d2-4394-ad4e-086953f3a88b)
+
 
 # Installation
 
